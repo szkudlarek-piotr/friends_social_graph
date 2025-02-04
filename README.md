@@ -1,0 +1,1 @@
+This script was written to analyse structure of relations among my friends. The crude data is taken from my digital diary - a MySQL database.
